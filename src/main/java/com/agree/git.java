@@ -12,5 +12,6 @@ public class git {
         System.out.println("hello hot-fix");
         System.out.println("hello master");
         System.out.println(" hello hot-fix 2");
+        System.out.println(" hello hot-fix 远端修改");
     }
 }
